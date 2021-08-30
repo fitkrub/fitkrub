@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+fitkrub.odoo.com	TRUE	/	FALSE	1999999999	visitor_uuid	60785ad8a5104f47a325e74a07d2c88c
+fitkrub.odoo.com	TRUE	/	FALSE	1999999999	frontend_lang	es_ES
+fitkrub.odoo.com	TRUE	/	FALSE	1999999999	session_id	b84f39961cd91b2059b48112b98de1d1a4b2d329
+
